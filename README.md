@@ -3,7 +3,7 @@
 # J2EE Project
 
 ## Description
-It is a project that uses Hibernate mapping Single Table Inheritance to register users, such as students or employers.
+It is a project that uses Hibernate mapping Single Table Inheritance to register users depending on the Person_Type, such as students or employers.
 
 ## Functionalities
 
