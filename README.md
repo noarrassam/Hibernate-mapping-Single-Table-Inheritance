@@ -22,11 +22,11 @@ It is a project that uses Hibernate mapping Single Table Inheritance to register
 
 ![![Person Info.]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/1.JPG)
 
-## **User Lists**
+## **Users List**
 
 ![![User Lists]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/2.JPG)
 
-## **Add User**
+## **Add Users**
 
 ![![Add User]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/Add.JPG)
 
@@ -38,15 +38,15 @@ It is a project that uses Hibernate mapping Single Table Inheritance to register
 
 ![![Delete]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/Delete.JPG)
 
-## **Deleted User**
+## **Deleted Users**
 
 ![![Deleted User]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/Deleted.JPG)
 
-## **User Edit**
+## **Edit Users**
 
 ![![User Edit]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/Edit.JPG)
 
-## **Search User**
+## **Search Users**
 
 ![![Search User]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/SearchByName.JPG)
 
