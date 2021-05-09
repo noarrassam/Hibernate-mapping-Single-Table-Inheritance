@@ -38,7 +38,7 @@ It is a project that uses Hibernate mapping Single Table Inheritance to register
 
 ![![Delete]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/Delete.JPG)
 
-## **Deleted Users**
+## **Deleted User**
 
 ![![Deleted User]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/Deleted.JPG)
 
