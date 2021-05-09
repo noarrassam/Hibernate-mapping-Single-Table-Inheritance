@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 20-Apr-2021 2:18:11 PM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="hiber.Person" table="Person" discriminator-value="person">
+        <id name="id" type="int">
+        <column name="ID" />
+        <generator class="increment" />
+    </id>
+        <discriminator column="PERSON_TYPE" type="string"></discriminator>
+
+        <property name="name"></property>
+        <property name="email"></property>
+        <property name="address"></property>
+        <property name="phone"></property>
+
+        <subclass name="hiber.Employee" discriminator-value="Employee">
+        </subclass>
+
+        <subclass name="hiber.Student" discriminator-value="Student">
+        </subclass>
+
+    </class>
+</hibernate-mapping>
