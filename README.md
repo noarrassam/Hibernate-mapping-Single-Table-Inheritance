@@ -49,3 +49,7 @@ It is a project that uses Hibernate mapping Single Table Inheritance to register
 ## **Search User**
 
 ![![Search User]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/SearchByName.JPG)
+
+## **Users Table**
+
+![![Users Table]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/Table.JPG)
