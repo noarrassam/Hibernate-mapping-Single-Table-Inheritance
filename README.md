@@ -22,7 +22,7 @@ It is a project that uses Hibernate mapping Single Table Inheritance to register
 
 © Noar Rassam
 
-Licensed under the [MIT License](License).
+Licensed under the [MIT License](LICENSE).
 
 ## **Person Info.**
 
