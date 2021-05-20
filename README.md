@@ -18,6 +18,12 @@ It is a project that uses Hibernate mapping Single Table Inheritance to register
 ## Features
 * Manage User Info.
 
+## License & Copyright
+
+© Noar Rassam
+
+Licensed under the [MIT License](License).
+
 ## **Person Info.**
 
 ![![Person Info.]()](https://github.com/noarrassam/Hibernate-mapping-Single-Table-Inheritance/blob/master/test/images/1.JPG)
